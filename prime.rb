@@ -1,3 +1,4 @@
 def prime(integer)
- re
+ counter= 2 
+ while counter 
 end 
