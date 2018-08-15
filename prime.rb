@@ -1,4 +1,8 @@
-def prime(num)
- counter= 2 
- while counter 
+def prime(integer)
+ integer.each do |num|
+   i = 2 
+     while  i < num 
+        if num % i == 0 
+      else 
+        
 end 
