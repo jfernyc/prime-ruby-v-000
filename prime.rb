@@ -8,5 +8,6 @@ def prime(integer)
         puts "#{num} is a prime"
       end 
       i += 1 
+    end 
   end 
 end 
